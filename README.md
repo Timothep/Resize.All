@@ -15,7 +15,7 @@ Resize.me is a simple Python script used to resize all the images present in a f
 Resizing all the '.jpg' and '.png' images present in 'C:\temp' and its subdirectories, overwriting the original images and printing extended information along the way
 
 ```python
-python -s 1024 -p C:\temp -o -v -r
+python Resize.All.py -s 1024 -p C:\temp -o -v -r
 ```
 
 ## Dependencies ##
