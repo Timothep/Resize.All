@@ -22,3 +22,8 @@ python Resize.All.py -s 1024 -p C:\temp -o -v -r
 ## Dependencies ##
 - Python 2.7 -> http://www.python.org/
 - Python Image Library (PIL) 1.1.7 -> http://www.pythonware.com/products/pil/
+
+# Open Issues / Further Developments #
+* Add the ability to provide extensions via arguments
+* Resize one image only
+* Create Unit Tests
