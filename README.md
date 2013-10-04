@@ -3,6 +3,8 @@
 Resize.me is a simple Python script used to resize all the images present in a folder (and eventually in its subfolders)
 Currently supported are .jpg, .jpeg & .png files.
 
+Warning: the last line of the Resize.me.py script is currently commented out to *NOT* resize the images. The script will thus only list the images found. Comment it back in when you are comfortable with starting the resize.
+
 ### Usage ###
 * -h, --help            					show the help message and exit
 * -s SIZE, --size SIZE  					The size of the longest border of the image after resizing (mandatory)
